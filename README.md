@@ -1,5 +1,3 @@
-# Machine_Learning
-
 # Machine Learning Implementation Library 
 
 ## Overview
@@ -8,7 +6,8 @@ A comprehensive reference repository demonstrating the practical application of 
 This repository serves as a foundational toolkit for predictive modeling, exploratory data analysis (EDA), and algorithmic evaluation across both supervised and unsupervised learning domains.
 
 ## Contents & Algorithms
-* **Supervised Learning:** * Linear & Logistic Regression
+* **Supervised Learning:** 
+  * Linear & Logistic Regression
   * Decision Trees & Random Forests
   * Support Vector Machines (SVM)
   * K-Nearest Neighbors (KNN)
